@@ -42,10 +42,8 @@ These projects are at different stages of development. I aim to document impleme
 
 - **Paid Frontend Engineering Internship, Lighthouse Headquarters, Pune**
 - **Core team, Bits & Bytes Nagpur** — contributed to web development for the city chapter.
-- **Founding member, Robotics Club** — Tech & Coding Lead.
 - **Digital Pathways AI Bootcamp** — selected participant.
 - **KRAFTON game-development competition** — qualified for nationals.
-- **CenMUN 2026** — High Commendation, Council of Sovereign Architects.
 - **IIT Madras** — completed an eight-week technology and data certification.
 
 ## Technical direction
